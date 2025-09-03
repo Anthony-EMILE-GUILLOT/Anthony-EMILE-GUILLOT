@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anthony-EMILE-GUILLOT
-- 👀 I’m interested in vdeo games
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning html code
 - 📫 How to reach me by mail : a.emileguillot@gmail.com
 
